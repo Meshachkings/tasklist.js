@@ -10,7 +10,7 @@ const taskInput = document.querySelector("#task");
 
 loadEventListeners();
 
-// LOAD ALL EVENT LISTENER
+// LOAD ALL EVENT LISTENERS
 
 function loadEventListeners() {
 //load from localstorage
